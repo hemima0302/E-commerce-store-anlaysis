@@ -7,7 +7,7 @@ This repository contains a Power Bi dashboard of an E-commerce store to answer q
 
 ## Screenshot
 
-![dashboard preview](https://github.com/hemima0302/E-Commerce-Store-Analysis-/assets/75924699/5151c585-882b-4db4-b324-a8cc63256fb4)
+<img width="992" height="558" alt="image" src="https://github.com/user-attachments/assets/088caf6a-4c5c-4245-a85f-40f284812b45" />
 
 ## Installation
 
